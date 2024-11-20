@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\obj\Debug\netcoreapp3.1\EgyptianFractions.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\obj\Debug\netcoreapp3.1\EgyptianFractions.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\obj\Debug\netcoreapp3.1\EgyptianFractions.AssemblyInfo.cs
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\obj\Debug\netcoreapp3.1\EgyptianFractions.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\bin\Debug\netcoreapp3.1\EgyptianFractions.exe
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\bin\Debug\netcoreapp3.1\EgyptianFractions.deps.json
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\bin\Debug\netcoreapp3.1\EgyptianFractions.runtimeconfig.json
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\bin\Debug\netcoreapp3.1\EgyptianFractions.runtimeconfig.dev.json
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\bin\Debug\netcoreapp3.1\EgyptianFractions.dll
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\bin\Debug\netcoreapp3.1\EgyptianFractions.pdb
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\obj\Debug\netcoreapp3.1\EgyptianFractions.dll
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\obj\Debug\netcoreapp3.1\EgyptianFractions.pdb
+C:\Users\Student\source\repos\EgyptianFractions\EgyptianFractions\obj\Debug\netcoreapp3.1\EgyptianFractions.genruntimeconfig.cache

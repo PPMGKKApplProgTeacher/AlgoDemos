@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\bin\Debug\netcoreapp3.1\MinimumCoinProblem.exe
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\bin\Debug\netcoreapp3.1\MinimumCoinProblem.deps.json
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\bin\Debug\netcoreapp3.1\MinimumCoinProblem.runtimeconfig.json
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\bin\Debug\netcoreapp3.1\MinimumCoinProblem.runtimeconfig.dev.json
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\bin\Debug\netcoreapp3.1\MinimumCoinProblem.dll
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\bin\Debug\netcoreapp3.1\MinimumCoinProblem.pdb
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\obj\Debug\netcoreapp3.1\MinimumCoinProblem.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\obj\Debug\netcoreapp3.1\MinimumCoinProblem.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\obj\Debug\netcoreapp3.1\MinimumCoinProblem.AssemblyInfo.cs
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\obj\Debug\netcoreapp3.1\MinimumCoinProblem.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\obj\Debug\netcoreapp3.1\MinimumCoinProblem.dll
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\obj\Debug\netcoreapp3.1\MinimumCoinProblem.pdb
+C:\Users\Student\source\repos\MinimumCoinProblem\MinimumCoinProblem\obj\Debug\netcoreapp3.1\MinimumCoinProblem.genruntimeconfig.cache

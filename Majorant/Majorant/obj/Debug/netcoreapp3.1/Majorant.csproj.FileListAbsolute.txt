@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\Majorant\Majorant\bin\Debug\netcoreapp3.1\Majorant.exe
+C:\Users\Student\source\repos\Majorant\Majorant\bin\Debug\netcoreapp3.1\Majorant.deps.json
+C:\Users\Student\source\repos\Majorant\Majorant\bin\Debug\netcoreapp3.1\Majorant.runtimeconfig.json
+C:\Users\Student\source\repos\Majorant\Majorant\bin\Debug\netcoreapp3.1\Majorant.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Majorant\Majorant\bin\Debug\netcoreapp3.1\Majorant.dll
+C:\Users\Student\source\repos\Majorant\Majorant\bin\Debug\netcoreapp3.1\Majorant.pdb
+C:\Users\Student\source\repos\Majorant\Majorant\obj\Debug\netcoreapp3.1\Majorant.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Majorant\Majorant\obj\Debug\netcoreapp3.1\Majorant.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Majorant\Majorant\obj\Debug\netcoreapp3.1\Majorant.AssemblyInfo.cs
+C:\Users\Student\source\repos\Majorant\Majorant\obj\Debug\netcoreapp3.1\Majorant.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Majorant\Majorant\obj\Debug\netcoreapp3.1\Majorant.dll
+C:\Users\Student\source\repos\Majorant\Majorant\obj\Debug\netcoreapp3.1\Majorant.pdb
+C:\Users\Student\source\repos\Majorant\Majorant\obj\Debug\netcoreapp3.1\Majorant.genruntimeconfig.cache

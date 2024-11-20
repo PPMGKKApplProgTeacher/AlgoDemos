@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\bin\Debug\netcoreapp3.1\SmallestSubset.exe
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\bin\Debug\netcoreapp3.1\SmallestSubset.deps.json
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\bin\Debug\netcoreapp3.1\SmallestSubset.runtimeconfig.json
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\bin\Debug\netcoreapp3.1\SmallestSubset.runtimeconfig.dev.json
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\bin\Debug\netcoreapp3.1\SmallestSubset.dll
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\bin\Debug\netcoreapp3.1\SmallestSubset.pdb
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\obj\Debug\netcoreapp3.1\SmallestSubset.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\obj\Debug\netcoreapp3.1\SmallestSubset.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\obj\Debug\netcoreapp3.1\SmallestSubset.AssemblyInfo.cs
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\obj\Debug\netcoreapp3.1\SmallestSubset.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\obj\Debug\netcoreapp3.1\SmallestSubset.dll
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\obj\Debug\netcoreapp3.1\SmallestSubset.pdb
+C:\Users\Student\source\repos\SmallestSubset\SmallestSubset\obj\Debug\netcoreapp3.1\SmallestSubset.genruntimeconfig.cache
